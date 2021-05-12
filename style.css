@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 100px;
+  text-align: center;
+  background-color: lightskyblue;
+}
+
+.nav-list {
+}
+
+.main {
+  height: 500px;
+  background-color: orangered;
+}
+
+.footer {
+  height: 100px;
+  background-color: lightskyblue;
+}
+
+.footer-text {
+  text-align: right;
+  margin-right: 25px;
+  padding-top: 70px;
+}
